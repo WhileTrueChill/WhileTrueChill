@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Aditya Gupta
+# 💫 Hi 👋, I'm Aditya Raj
 
 **A passionate Computer Science Engineering Student | Java Developer | Web Developer from India 🇮🇳**
 
