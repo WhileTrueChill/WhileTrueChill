@@ -11,7 +11,7 @@
 * 💬 **Ask me about:** Java, DSA, HTML, CSS, JavaScript, MongoDB, Git & GitHub
 * 📫 **How to reach me:** [ag3854797@gmail.com].
 * 🎓 **Education:** B.Tech in Computer Science Engineering
-* 🚀 **Goals:** Become a Software Engineer, Build Innovative Startups, and Create Impactful AI Products
+* 🚀 **Goals:** Become a Software Engineer, Build Innovative Startups, and Create Impactful AI Products..
 * ⚡ **Fun Fact:** I love building projects, solving coding problems, and exploring new technologies every day.
 
 ## 🌐 Socials:
